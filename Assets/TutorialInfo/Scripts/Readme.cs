@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+// Just adding some text to test the gitignore file.
 
 public class Readme : ScriptableObject
 {
